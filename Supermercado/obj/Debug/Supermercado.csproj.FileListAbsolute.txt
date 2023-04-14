@@ -1,0 +1,8 @@
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\bin\Debug\Supermercado.exe.config
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\bin\Debug\Supermercado.exe
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\bin\Debug\Supermercado.pdb
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\obj\Debug\Supermercado.csproj.AssemblyReference.cache
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\obj\Debug\Supermercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\obj\Debug\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\obj\Debug\Supermercado.exe
+C:\Users\Ricar\OneDrive\Escritorio\Supermercado\obj\Debug\Supermercado.pdb
